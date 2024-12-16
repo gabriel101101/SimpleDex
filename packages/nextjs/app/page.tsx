@@ -18,8 +18,9 @@ const Home: NextPage = () => {
       <div className="card bg-base-100 w-96 shadow-xl">
   
   <div className="card-body">
-    <h2 className="card-title"></h2>
+    
     <h2 className="card-title">Ingrese en DEBUG CONTRACTS</h2>
+    <p className="card-title">Para usar los TOKENS y la Pool SimpleDEX.</p>
   </div>
 </div>
       
