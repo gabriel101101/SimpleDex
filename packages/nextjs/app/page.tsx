@@ -18,11 +18,8 @@ const Home: NextPage = () => {
       <div className="card bg-base-100 w-96 shadow-xl">
   
   <div className="card-body">
-    <h2 className="card-title">Token A</h2>
-    
-    <div className="card-actions justify-end">
-      <button className="btn btn-primary">pay ment</button>
-    </div>
+    <h2 className="card.title">Para ver los TOKENS</h2>
+    <h2 className="card-title">Ingrese en DEBUG CONTRACT</h2>
   </div>
 </div>
       
